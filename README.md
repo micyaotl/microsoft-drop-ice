@@ -184,6 +184,7 @@ Signed,
 1.  Matthew Searles [mattxo](https://github.com/mattxo)
 1.  Max Rittmüller [@maxrimue](https://github.com/maxrimue)
 1.  Michael Bishop [@miklb](https://github.com/miklb)
+1.  Micyaotl [@micyaotl](https://github.com/micyaotl)
 1.  Mijndert Stuij [@mijndert](https://github.com/mijndert)
 1.  Mike Eng [@mrengy](https://github.com/mrengy)
 1.  Mikkel Malmberg [@mikker](https://github.com/mikker)
